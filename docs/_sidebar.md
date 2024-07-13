@@ -1,0 +1,6 @@
+- [Home](/)
+- [Getting Started](getting-started.md)
+- [Setting up the Server](setup-server.md)
+- [Defining GraphQL Schema](defining-schema.md)
+- [Starting the GraphQL Server](graphql-server.md)
+- [Setting up MongoDB](mongodb-setup.md)
