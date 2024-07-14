@@ -4,3 +4,5 @@
 - [Defining GraphQL Schema](defining-schema.md)
 - [Starting the GraphQL Server](graphql-server.md)
 - [Setting up MongoDB](mongodb-setup.md)
+- [Appendix](appendix.md) 
+  - [Docsify Setup](Appendix/docsify-setup.md)
